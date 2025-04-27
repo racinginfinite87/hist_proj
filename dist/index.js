@@ -106,7 +106,7 @@ function main() {
                 if (window.map) {
                     window.map.update({
                         location: {
-                            center: [coords[0] + 0.028, coords[1] + 0.004],
+                            center: [coords[0] + 0.017, coords[1] + 0.004],
                             zoom: 13,
                             duration: 500
                         }
